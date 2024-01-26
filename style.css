@@ -1,0 +1,36 @@
+.fa{
+    padding: 20px;
+    font-size: 30px;
+    width:30px;
+    text-align: center;
+    margin: 5px 2px;
+    border-radius:50%
+    text-decoration:none;
+}
+.fa:hover{
+    opacity:0.8;
+}
+.fa-whatsapp{
+    background-color:#42f55d ;
+    color:white;
+}
+.fa-instagram{
+    background-color:#f55442 ;
+    color:white;
+}
+.fa-facebook{
+    background-color:#4281f5 ;
+    color:white;
+}
+.fa-google{
+    background-color:#4290f5 ;
+    color:white;
+}
+.fa-youtube{
+    background-color:#f5425a ;
+    color:white;
+}
+.fa-linkedin{
+    background-color:#4254f5 ;
+    color:white;
+}
